@@ -2,7 +2,7 @@
     padding-left: 2rem;
     padding-right: 1rem;
     padding-inline-start: 0%;
-    text-transform: uppercase;
+    text-transform: capitalize;
     height: 40px;
     width: 50x;
     margin-bottom: 3px;
